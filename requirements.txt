@@ -1,0 +1,14 @@
+catboost==1.2.8
+kaggle==1.7.4.5
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.3.0
+polars==1.30.0
+scikit-learn==1.6.1
+scipy==1.15.3
+tqdm==4.67.1
+seaborn==0.13.2
+shap==0.47.2
+phik==0.12.4
+ipython==9.3.0
+ipykernel==6.29.5
