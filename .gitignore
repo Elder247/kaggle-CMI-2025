@@ -1,6 +1,8 @@
 # Custom
 data/raw/*
 !data/raw/README.md
+catboost_info/
+*.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
