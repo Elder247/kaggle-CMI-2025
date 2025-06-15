@@ -12,3 +12,4 @@ shap==0.47.2
 phik==0.12.4
 ipython==9.3.0
 ipykernel==6.29.5
+pyarrow==20.0.0
